@@ -1,38 +1,3 @@
----
-layout: post
-title: R Data Analysis of Photosurvey
-date: '2024-07-23'
-categories: Analysis
-tags: Mollusca
----
-
-<style>
-/* Custom styles for the markdown content */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Arial', sans-serif;
-}
-
-p {
-  font-family: 'Times New Roman', serif;
-}
-
-h2 {
-  font-size: 1.5em;
-  color: #2E8B57;
-}
-
-h3 {
-  font-size: 1.2em;
-  color: #6A5ACD;
-}
-
-blockquote {
-  font-family: 'Courier New', monospace;
-  font-style: italic;
-  color: #8B0000;
-}
-
-</style>
 
 The goal of this analysis is to investigate and comprehend how the presence of algae is influenced by seasons, depths, and years. The data was processed using R, and various statistical analyses were performed to determine the significance of these factors.
 

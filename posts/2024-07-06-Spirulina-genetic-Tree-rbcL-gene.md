@@ -1,10 +1,4 @@
----
-layout: post
-title: Spirulina genetic Tree (rbcL gene)
-date: '2024-07-06'
-categories: Analysis
-tags: Spirulina
----
+
 Phylogenetic tree in MEGA. A bootstrap consensus version tree was constructed.
 
 Analysis of:
