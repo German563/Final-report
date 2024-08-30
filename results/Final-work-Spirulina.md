@@ -1,4 +1,6 @@
-# Protocol for growing Spirulina
+# Results Summary
+______________________________________________________
+## Protocol for growing Spirulina
 ## Climatic Factors
 *Optimum growth temperature:* **35°C**  
 *Growth ceases below 20°C and above 38°C*  
@@ -340,7 +342,10 @@ Since the p-value is far less than any commonly used significance level, this me
 In conclusion, the analysis indicates that depth, site conditions, and the presence of other taxonomic groups significantly influence the distribution of algae. Depth plays a crucial role, with more algae presence at shallower depths due to the dependency on sunlight. The site-specific analysis suggests that environmental factors and the presence of herbivores like Mollusca and competitors like Bryozoa and Echinodermata affect algae distribution.
 
 ______________________________________________________
+# Metabolomics analysis
+Here is an analysis of a metabolomics of a antibiotic Negamycin.
 
-![Algae site](../images/Negamycin.jpg)
+![Negamycin](../images/Negamycin.jpg)
 
+As we can see one molecule has a mass difference 17.027. I have a theory that this molecule has an additional hydroxyl group.
 
