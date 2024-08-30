@@ -241,6 +241,7 @@ Arthrospira maxima OUQDSM ribulose-1,5-bisphosphate carboxylase/oxygenase large 
 
 
 _________________________________________________
+# qPCR-Arthrospira-platensis
 
 ***Reference gene***
 
@@ -269,6 +270,7 @@ The 16S rRNA gene has a highly conserved sequence across different species, incl
 As a component of the ribosomal RNA, the 16S rRNA gene is crucial for protein synthesis in the ribosome. Its fundamental role in cellular function means its expression levels remain relatively constant, regardless of external conditions or treatments.
 
 ---
+
 ***Response Gene***
 
 **Left Primer:**  
@@ -296,6 +298,7 @@ The A-PsQB gene is involved in the photosynthetic process, which is highly respo
 As part of the photosystem II complex, the A-PsQB gene can serve as an indicator of photosynthetic efficiency and health in Arthrospira platensis. Its expression levels can provide insights into the physiological state of the organism under different conditions.
 
 ____________________________________________________________________
+# R Data Analysis of Photosurvey
 
 The goal of this analysis is to investigate and comprehend how the presence of algae is influenced by seasons, depths, and years. The data was processed using R, and various statistical analyses were performed to determine the significance of these factors.
 
