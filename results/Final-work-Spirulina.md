@@ -228,7 +228,8 @@ These primers were selected based on their melting temperature, GC content, and 
 
 __________________________________________
 
-Phylogenetic tree in MEGA. A bootstrap consensus version tree was constructed.
+# Phylogenetic tree in MEGA. 
+A bootstrap consensus version tree was constructed.
 
 Analysis of:
  Arthrospira platensis FACHB439 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds
